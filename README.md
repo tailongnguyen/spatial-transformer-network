@@ -1,6 +1,5 @@
 # Spatial transformer networks
-Implementation of spatial transformer networks in keras 2.0 using tensorflow 1.0 as backend.
-
+This code heavily depends on https://github.com/oarriaga/spatial_transformer_networks
 ![alt tag](images/transformation.png)
 
 ![alt tag](images/results.jpg)
